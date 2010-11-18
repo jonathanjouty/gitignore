@@ -4,6 +4,7 @@ report/report.pdf
 # ANSI C
 *.o
 *.h.gch
+*.dSYM
 
 # JAVA
 *.class

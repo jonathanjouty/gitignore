@@ -1,0 +1,29 @@
+# ANSI C
+*.o
+*.h.gch
+
+# JAVA
+*.class
+
+# LaTeX
+*.aux
+*.bbl
+*.blg
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.log
+*.out
+*.toc
+*.fdb_latexmk
+*.pdfsync
+*.synctex.gz
+.*.fls
+.*.fmt
+.*.ini
+.*.tex
+.*.watcher_pid

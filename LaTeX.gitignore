@@ -14,10 +14,6 @@
 *.fdb_latexmk
 *.pdfsync
 *.synctex.gz
-
-# CHANGED: added for TextMate watching
-.*.fls
-.*.fmt
-.*.ini
-.*.tex
-.*.watcher_pid
+*.nav
+*.snm
+*.vrb
